@@ -1,0 +1,33 @@
+.content {
+  justify-content: center;
+  display: flex-box;
+  text-align: center;
+}
+
+.links {
+  justify-content: right;
+  display: flex;
+  align-text: center;
+  margin-right: 40px;
+}
+
+#course-link {
+  margin-right: 40px;
+}
+
+#pricing-link {
+  margin-right: 40px;
+}
+
+p {
+  word-spacing: 45px;
+  font-family: "Source Sans Pro";
+  font-size: 16px;
+}
+
+.people {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
